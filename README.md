@@ -1,7 +1,12 @@
 
 ---------------------------------------------------------------------------
-# Network-Learning
+Network-Learning
 ---------------------------------------------------------------------------
+[TOC]
+
+# OSPF
+
+## Configuration OSPF
 
 ## OSPF
 ![Thirsty Question](https://github.com/anwar3107/Network-Learning/blob/main/OSPF.png)
