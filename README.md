@@ -12,5 +12,5 @@ Interior Gateway Protocol (IGP) membolehkan ia digunakan sebagai single autonomo
 
 Ia jatuh ke dalam link-state routing protocol.
 ```
-Learning about every router and subnet in the entire Network, result is every router has the same information about the network as each other by sending LSA
+Belajar tentang seluruh network dan router yang ada dalam rangkaian, Ia akan menghantar LSA untuk belajar tentang network tersebut
 ```
